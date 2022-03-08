@@ -9,7 +9,6 @@
     "ios": "expo start --ios",
     "web": "expo start --web",
     "eject": "expo eject",
-    "build": "expo build"
   },
   "dependencies": {
     "@react-navigation/drawer": "^6.2.0",
